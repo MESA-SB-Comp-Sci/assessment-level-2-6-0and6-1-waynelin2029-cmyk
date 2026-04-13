@@ -6,7 +6,7 @@
     color: white;
 }
 body{
-    background-color:rgb(114, 107, 89);
+    background-color:gray;
 
 }
 #p1{
@@ -17,7 +17,12 @@ body{
 }
 .p3{
     color:aquamarine;
+    background-color:white;
+    border:goldenrod 5px solid;
+    display: block;
+    min-height: min-content;
 }
+
 .border1{
     background-color:white;
     height:100px;
@@ -25,4 +30,6 @@ body{
 }
 .footer{
     color:aliceblue;
+    padding: 10px:
+    margin: 5px;
 }
