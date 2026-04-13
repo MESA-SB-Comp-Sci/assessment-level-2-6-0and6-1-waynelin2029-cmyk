@@ -1,2 +1,14 @@
 <!-- Write explantation below of tag choice below for an attempt at a level 4  -->
 I gave h1 an id of alex because the h1 is its on thing nothing else looks like it, i choose background color to make it pink like in the mark-up, and the color white, the i just used the element body to make the whole backgound a similar color to the mark-up, couldn't find the original, then for p1 i used Id because that was the only p tag with the color yellow. p2 was a class because there were other p tags that needed the same color, i used color:chartreuse because it looked the most similar, and i used the rule color because the text itself was colored. same reasoning with p3, it was class, and the text was aqua not the background color. the for border it was class because there were two tags that looked the same, i used height to make it the right size and position, background color was white, and border as 5px, solid, and goldenrod as it looked the most similar. and i added the footer class because the bottom was just the same and i used color aliceblue because white sucks.
+
+Feedback:
+1. I like how you used an ID for the heading, and labeled each of your classes. 
+
+It's good, there's nothing much to change.
+
+.body 
+{
+    background-color:grey;
+}
+
+:p
